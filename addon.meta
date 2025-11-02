@@ -1,0 +1,11 @@
+{
+	"Id" : "Plan17LanguagePlana",
+	"Name" : "Plana写的职业 语言",
+	"Author" : "Plana 客串",
+	"Description" : "",
+	"Version" : "2.2.8.1",
+	"Build" : 0,
+	"Dependency" : [
+	],
+	"Hidden" : False
+}

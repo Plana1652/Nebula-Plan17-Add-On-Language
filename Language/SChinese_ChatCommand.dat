@@ -1,0 +1,6 @@
+"chatcommand.up.reload" : "概率提升重载完成"
+"chatcommand.up.add" : "已为%PLAYER%添加概率提升<br>%ROLE% 额外获得概率：%CHANCE%"
+"chatcommand.setkillguardplayer.add" : "已为%PLAYER%添加首刀保护"
+"chatcommand.setkillguardplayer.remove" : "已移除%PLAYER%的首刀保护"
+"chatcommand.scfpc.set" : "设置隐蔽者技能形象为%PLAYER%"
+"chatcommand.warning" : "%PLAYER% 受到管理员警告。<br>原因:%REASON%"

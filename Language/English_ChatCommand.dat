@@ -1,0 +1,6 @@
+"chatcommand.up.reload" : "Increase In Refresh Probability, Done"
+"chatcommand.up.add" : "%PLAYER% UP <br>%ROLE% Additional Probability : %CHANCE%, Done"
+"chatcommand.setkillguardplayer.add" : "%PLAYER%Have First Protection, Done"
+"chatcommand.setkillguardplayer.remove" : "Remove %PLAYER% First Protection, Done"
+"chatcommand.scfpc.set" : "Set Camouflage Image Is %PLAYER%, Done"
+"chatcommand.warning" : "Warning From The Administrator : %PLAYER%<br>Reason : %REASON%"

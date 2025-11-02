@@ -1,0 +1,10 @@
+"UpdateOptionMessage" : " set to "
+"BoolOption0" : "<color=#D13438>Off</color>"
+"BoolOption1" : "<color=#8CFFFF>On</color>"
+
+"config.client.useairshipSound" : "Force The Airship SE"
+"config.client.darktheme" : "Dark Theme"
+"config.client.ggdGuesserSound" : "GGD Guesser SE"
+"config.client.mapuseRoleColor" : "Maps Use Role's Color"
+"config.client.alluiUseModern" : "Use New UI"
+"config.client.loadingAnim" : "Loading Animation"

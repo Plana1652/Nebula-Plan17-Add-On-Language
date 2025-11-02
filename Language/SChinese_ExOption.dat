@@ -1,0 +1,10 @@
+"UpdateOptionMessage" : "设置为"
+"BoolOption0" : "<color=#D13438>关</color>"
+"BoolOption1" : "<color=#8CFFFF>开</color>"
+
+"config.client.useairshipSound" : "强制使用Airship会议音效"
+"config.client.darktheme" : "深色模式"
+"config.client.ggdGuesserSound" : "鹅鸭杀赌怪音效"
+"config.client.mapuseRoleColor" : "地图使用职业颜色"
+"config.client.alluiUseModern" : "使用新版UI"
+"config.client.loadingAnim" : "加载动画"
